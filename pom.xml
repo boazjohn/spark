@@ -132,7 +132,7 @@
     <derby.version>10.12.1.1</derby.version>
     <parquet.version>1.8.2</parquet.version>
     <hive.parquet.version>1.6.0</hive.parquet.version>
-    <jetty.version>9.3.11.v20160721</jetty.version>
+    <jetty.version>9.4.41.v20210516</jetty.version>
     <feign.version>8.18.0</feign.version>
     <retrofit.version>2.2.0</retrofit.version>
     <bouncycastle.version>1.54</bouncycastle.version>
